@@ -12,15 +12,14 @@ export default function HeroSection() {
     >
       <Container maxWidth="md">
         <Typography variant="h3" component="h1" gutterBottom>
-          Hello, I'm [Your Name]
+          Hello, I&#39;m [Your Name]
         </Typography>
         <Typography variant="h6" component="p" sx={{ mb: 4 }}>
           A passionate software developer showcasing my latest coding projects.
         </Typography>
-        {/* Optional: Add a call to action button */}
-        {/* <Button variant="contained" color="secondary" size="large">
-          Learn More
-        </Button> */}
+        <Button variant="contained" color="secondary" size="large">
+          Contact Me
+        </Button>
       </Container>
     </Box>
   );
