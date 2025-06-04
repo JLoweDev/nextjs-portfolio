@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Todo List
+
+-   Better colour scheme (coolors)
+-   Dark Mode
+-   Fully update materialui theme in layout.js
+-   Explore animations
+-   Test responsiveness for different screen sizes
+-   Add links from each card to a detail page outlining the process of creating the project (Maybe popout)
+-   Contact form
+-   Nav bar
+-   Deploy
+-   Move projects from hardcoded to a JSON file
+-   Move projects from a JSON file to a headless CMS
