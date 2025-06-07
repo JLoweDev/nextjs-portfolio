@@ -4,8 +4,6 @@ export default function HeroSection() {
   return (
     <Box
       sx={{
-        bgcolor: 'primary.main', // Example background color from your Material-UI theme
-        color: 'white',
         py: 8,
         textAlign: 'center',
       }}

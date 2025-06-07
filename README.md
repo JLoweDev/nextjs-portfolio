@@ -37,14 +37,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Todo List
 
--   Better colour scheme (coolors)
--   Dark Mode
--   Fully update materialui theme in layout.js
+-   ~~Better colour scheme (coolors)~~
+-   ~~Dark Mode~~
+-   ~~Fully update materialui theme in layout.js~~
 -   Explore animations
--   Test responsiveness for different screen sizes
+-   ~~Test responsiveness for different screen sizes~~
 -   Add links from each card to a detail page outlining the process of creating the project (Maybe popout)
 -   Contact form
 -   Nav bar
 -   Deploy
 -   Move projects from hardcoded to a JSON file
 -   Move projects from a JSON file to a headless CMS
+-   Add link to each project
+-   Expand the project cards to include a date of creation and a tag such as 'ecommerce website' under each title

@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { Container, Box, Typography, Grid } from '@mui/material';
+import { Container, Typography, Grid } from '@mui/material';
 import HeroSection from '../components/HeroSection';
 import ProjectCard from '../components/ProjectCard';
 import Layout from '../components/Layout'; // Optional
@@ -44,7 +44,7 @@ export default function Home() {
         <Typography variant="h4" component="h2" align="center" gutterBottom>
           My Projects
         </Typography>
-        <Grid container spacing={4} sx={{ mt: 4, mb: 4 }}>
+        <Grid container spacing={4} sx={{ mt: 4, mb: 4, justifyContent: "center" }}>
           {projects.map((project) => (
             <Grid item key={project.id} xs={12} sm={6} md={4}>
               <ProjectCard project={project} />
