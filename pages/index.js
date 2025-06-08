@@ -30,6 +30,8 @@ const projects = [
 ];
 
 export default function Home() {
+  const reversedProjects = [...projects].reverse();
+
   return (
     <Layout> {/* Optional: If you have a global layout */}
       <Head>
@@ -45,7 +47,7 @@ export default function Home() {
           My Projects
         </Typography>
         <Grid container spacing={4} sx={{ mt: 4, mb: 4, justifyContent: "center" }}>
-          {projects.map((project) => (
+          {reversedProjects.map((project) => (
             <Grid item key={project.id} xs={12} sm={6} md={4}>
               <ProjectCard project={project} />
             </Grid>

@@ -51,3 +51,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 -   Add link to each project
 -   Expand the project cards to include a date of creation and a tag such as 'ecommerce website' under each title
 -   Replace Contact button with social media links
+-   ~~Reverse order of projects so that the most recent is the first~~
