@@ -9,7 +9,7 @@ const projects = [
   {
     id: 1,
     title: 'Next.js Portfolio',
-    description: 'A single page fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff ffffffffffff fffffffffffff ffffffffffff ffffffff',
+    description: 'A portfolio for displaying projects and the technologies used to create them.',
     screenshot: '/project-screenshots/project1-screenshot.png', // Image in public folder
     technologies: ['Next.js', 'Material UI', 'React'],
   },

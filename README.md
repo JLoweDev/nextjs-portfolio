@@ -50,3 +50,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 -   Move projects from a JSON file to a headless CMS
 -   Add link to each project
 -   Expand the project cards to include a date of creation and a tag such as 'ecommerce website' under each title
+-   Replace Contact button with social media links
