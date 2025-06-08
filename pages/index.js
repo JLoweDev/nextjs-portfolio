@@ -8,22 +8,22 @@ import Layout from '../components/Layout'; // Optional
 const projects = [
   {
     id: 1,
-    title: 'Project Alpha',
-    description: 'A brief description of Project Alpha, highlighting its purpose and features.',
+    title: 'Next.js Portfolio',
+    description: 'A single page fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff ffffffffffff fffffffffffff ffffffffffff ffffffff',
     screenshot: '/project-screenshots/project1-screenshot.png', // Image in public folder
-    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+    technologies: ['Next.js', 'Material UI', 'React'],
   },
   {
     id: 2,
     title: 'Project Beta',
-    description: 'This project showcases a different set of skills and functionalities.',
+    description: 'This project showcas',
     screenshot: '/project-screenshots/project2-screenshot.png',
     technologies: ['Next.js', 'Material-UI', 'Firebase'],
   },
   {
     id: 3,
     title: 'Project Gamma',
-    description: 'An interesting web application demonstrating complex logic and design.',
+    description: 'An interesting ',
     screenshot: '/project-screenshots/project3-screenshot.png',
     technologies: ['Vue.js', 'Django', 'PostgreSQL', 'Docker'],
   },

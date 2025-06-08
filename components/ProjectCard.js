@@ -2,7 +2,7 @@ import { Card, CardMedia, CardContent, Typography, Box, Chip } from '@mui/materi
 
 export default function ProjectCard({ project }) {
   return (
-    <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+    <Card sx={{ height: '100%', width:'20rem', display: 'flex', flexDirection: 'column' }}>
       <CardMedia
         component="img"
         height="180"
