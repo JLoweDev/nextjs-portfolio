@@ -46,9 +46,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 -   Contact form
 -   Nav bar
 -   Deploy
--   Move projects from hardcoded to a JSON file
--   Move projects from a JSON file to a headless CMS
+-   ~~Move projects from hardcoded to a JSON file~~ (Unneeded)
+-   ~~Move projects from a JSON file to a headless CMS~~ (Unneeded)
 -   Add link to each project
--   Expand the project cards to include a date of creation and a tag such as 'ecommerce website' under each title
+-   Expand the project cards to include a date of creation
 -   Replace Contact button with social media links
 -   ~~Reverse order of projects so that the most recent is the first~~
+
+## What did I learn?
+
+-   For a simple portfolio, anything more than hard-coded information is pointless.
